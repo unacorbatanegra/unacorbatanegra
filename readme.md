@@ -28,8 +28,7 @@
 <br />
 <br />
 
-Self taught software engineer, Teacher, Open Source contributor, Crypto Lover,
-UI/UX Designer.
+Software engineer, Teacher, Open Source contributor, UI/UX Designer.
 
 <a href="https://github.com/unacorbatanegra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=unacorbatanegra&count_private=true&show_icons=true&hide_title=true" />
